@@ -1,1 +1,1 @@
-This repository contains a Power Bi dashboard created on employee performance dataset, this dashboard provides ingihts into how training hours, promotions, working in various departments and various other factors effect employee performance and stisfaction
+This repository contains a Power BI dashboard created on employee performance dataset, this dashboard provides ingihts into how training hours, promotions, working in various departments and various other factors effect employee performance and stisfaction
